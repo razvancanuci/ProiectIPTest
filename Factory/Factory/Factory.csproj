@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ListeIntrebari">
+      <HintPath>..\..\ListeIntrebari\ListeIntrebari\bin\Debug\net48\ListeIntrebari.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

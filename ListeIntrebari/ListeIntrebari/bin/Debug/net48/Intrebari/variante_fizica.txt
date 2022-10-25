@@ -1,0 +1,20 @@
+299 792 458 m/s# 490 429 158 m/s # 100 590 780 m/s # 250 790 654 m/s
+Calcit # Diamant# Cuprit# Albit
+50 ° C# 100 ° C# 460 ° C# 1000 ° C 
+123.000 m/s# 1.000.000 m/s#	300.000.000 m/s# 300.000 m/s
+Satelitii planetelor# Gaura neagră # Praful cosmic # Planeta gazoasă 
+Curcubeu# Maree# Fulger# Crivăt
+Sarcina electrica nu poate avea valori negative# Sarcina electrica este o masura a starii de electrizare# Sarcina electrica este neutra# Sarcina electrica nu poate avea valori pozitive
+q = It# q = Ig# q =Im# q = I/t
+La electrizarea prin frecare corpurile se incarca cu sarcini de semne contrare# La electrizarea prin frecare corpurile nu se incarca electric# La electrizarea prin frecare corpurile se incarca cu sarcini de acelasi semn# La electrizarea prin frecare corpul electrizat nu-si modifica sarcina electrica, dar la extremitati se incarca cu sarcini de semne contrare
+La electrizarea prin contact corpurile nu se incarca electric# La electrizarea prin contact corpurile se incarca cu sarcini de acelasi semn# La electrizarea prin contact corpurile se incarca cu sarcini de semne contrare# La electrizarea prin contact corpul electrizat nu-si modifica sarcina electrica, dar la extremitati se incarca cu sarcini de semne contrare
+La electrizarea prin inductie corpurile se incarca cu sarcini de semne contrare# La electrizarea prin inductie corpul electrizat nu-si modifica sarcina electrica, dar la extremitati se incarca cu sarcini de semne contrare#La electrizarea prin inductie corpurile nu se incarca electric#La electrizarea prin inductie corpurile se incarca cu sarcini de acelasi semn
+Interactiuni de atractie# Nu se manifesta interactiuni#Interactiuni de atractie si de respingere#Interactiuni de respingere
+Forta de interactiune dintre doua corpuri punctiforme avand sarcinile q¹ si q²este invers proportionala cu sarcinile electrice si invers proportionala cu distanta dintre ele# Forta de interactiune dintre doua corpuri punctiforme avand sarcinile q¹ si q²este direct proportionala cu sarcinile electrice# Forta de interactiune dintre doua corpuri punctiforme avand sarcinile q¹ si q²este invers proportionala cu sarcinile electrice si direct proportionala cu distanta dintre ele# Forta de interactiune dintre doua corpuri punctiforme avand sarcinile q¹ şi q²este direct proportionala cu sarcinile electrice si invers proportionala cu patratul distantei dintre ele
+Distanta dintre corpuri# Sarcinile corpurilor# Masa corpurilor# Mediul in care se afla corpurile
+A# m# N# m²
+Conductoare de legatura si consumator#Intrerupator si consumator#Generator, consumator, intrerupator si conductoare de legatura# Generator si conductoare de legatura
+Circuitul inchis este circuitul in care prin consumator trece curent electric iar intrerupatorul este inchis# Circuitul inchis este circuitul in care prin consumator nu trece curent electric iar intrerupatorul nu este inchis# Circuitul inchis este circuitul in care prin consumator nu trece curent electric iar intrerupatorul este deschis# Circuitul inchis este circuitul care nu are consumator iar intrerupatorul nu este inchis
+Corpuri opace# Corpuri care primesc si imprastie lumina# Corpuri care primesc lumina de la o sursa de lumina# Corpuri care nu permit trecerea luminii prin ele
+Soarele se afla intre Luna si Pamant#  Pamantul se afla intre Soare si Luna# Luna se afla intre Soare si Pamant# Luna se afla intre Pamant si Soare
+Reala, egala cu obiectul si dreapta# Reala, marita si dreapta# Reala, micsorata si rasturnata# Reala, marita si rasturnata
